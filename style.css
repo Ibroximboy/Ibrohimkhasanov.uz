@@ -110,6 +110,10 @@ section {
   text-align: center;
 }
 
+.fyp {
+  margin-top: -200px;
+}
+
 .experience .content h1 {
   font-size: 2em;
   color: #fff;
